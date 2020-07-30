@@ -1,0 +1,9 @@
+sonar:
+  address: http://localhost:9001
+  username: admin
+  password: 123456
+  template-path: sonarReportTemplate
+
+
+
+

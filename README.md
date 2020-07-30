@@ -1,1 +1,1 @@
-# sonarqube-client
+# sonar-client
